@@ -3,7 +3,7 @@
 A new practice Flutter application.
 
 ## A Demo of project
-![Project Demo](https://github.com/jhon-swai/flutter_namer_app/flutter_namer_app.gif)
+![Project Demo](https://github.com/jhon-swai/flutter_namer_app/blob/main/flutter_namer_app.gif)
 
 ## References & Resources
 
